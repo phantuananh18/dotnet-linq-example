@@ -1,0 +1,15 @@
+D:\c#-linq-example\bin\Debug\net6.0\c#-linq-example.exe
+D:\c#-linq-example\bin\Debug\net6.0\c#-linq-example.deps.json
+D:\c#-linq-example\bin\Debug\net6.0\c#-linq-example.runtimeconfig.json
+D:\c#-linq-example\bin\Debug\net6.0\c#-linq-example.dll
+D:\c#-linq-example\bin\Debug\net6.0\c#-linq-example.pdb
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.csproj.AssemblyReference.cache
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.AssemblyInfoInputs.cache
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.AssemblyInfo.cs
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.csproj.CoreCompileInputs.cache
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.dll
+D:\c#-linq-example\obj\Debug\net6.0\refint\c#-linq-example.dll
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.pdb
+D:\c#-linq-example\obj\Debug\net6.0\c#-linq-example.genruntimeconfig.cache
+D:\c#-linq-example\obj\Debug\net6.0\ref\c#-linq-example.dll
